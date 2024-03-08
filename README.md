@@ -1,6 +1,6 @@
 # MultimodalChatbot-AzureSearchComputerVision
 
-### This is image retrieval multi modal RAG pipeline which can results text and relevant images as completion to the user's query.
+### This is image retrieval multi modal RAG pipeline by utlizing Azure search and Computer vision Florence foundation model which can results text and relevant images as completion to the user's query.
 ### Here are the steps that I had followed to creat this pipeline.
 1. Install and import necessary packages
 2. Defined sequence of functions to extract the text and images separately from input pdf document.
