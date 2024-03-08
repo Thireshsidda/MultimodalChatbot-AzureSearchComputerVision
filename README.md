@@ -10,7 +10,7 @@
 6. Search results
 
 
-### In order to run your application, you should have the following credentials of Azure OpenAI and Azure Cognitive Search in your ".env" file.
+### In order to run your application, you should have the following credentials of Azure Computer Vision and Azure Cognitive Search in your ".env" file.
 #### Azure computer vision
     key = os.getenv("AZURE_CV_KEY")
     endpoint = os.getenv("AZURE_CV_ENDPOINT")
